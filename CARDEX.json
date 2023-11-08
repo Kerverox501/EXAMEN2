@@ -1,0 +1,402 @@
+{
+    "ciclo1": {
+      "cuatrimestre1": [
+        {
+          "Nombre": "Inglés I",
+          "Calificacion": 9,
+          "Siglas": "IN1-LC",
+          "Creditos": 6
+        },
+        {
+          "Nombre": "Química Básica",
+          "Calificacion": 10,
+          "Siglas": "ALL-FC",
+          "Creditos": 6
+        },
+        {
+          "Nombre": "Introducción a la programación",
+          "Calificacion": 10,
+          "Siglas": "INP-FC",
+          "Creditos": 7
+        },
+        {
+          "Nombre": "Introducción a las tecnologías de información",
+          "Calificacion": 10,
+          "Siglas": "ITI-FC",
+          "Creditos": 4
+        },
+        {
+          "Nombre": "Álgebra lineal",
+          "Calificacion": 8,
+          "Siglas": "ALL-FC",
+          "Creditos": 7
+        },
+        {
+          "Nombre": "Herramientas Ofimaticas",
+          "Calificacion": 10,
+          "Siglas": "HEO-LC",
+          "Creditos": 4
+        },
+        {
+          "Nombre": "Expresión oral y escrita",
+          "Calificacion": 9,
+          "Siglas": "EO1-LC",
+          "Creditos": 3
+        }
+      ],
+      "cuatrimestre2": [
+        {
+            "Nombre": "Ingles II",
+            "Calificacion": 9,
+            "Siglas": "IN2-LC",
+            "Creditos": 6
+          },
+          {
+            "Nombre": "Desarrollo Humano y Valore",
+            "Calificacion": 10,
+            "Siglas": "DHV-CE",
+            "Creditos": 4
+          },
+          {
+            "Nombre": "Funciones Matematicas",
+            "Calificacion": 8,
+            "Siglas": "FUM-FC",
+            "Creditos": 5
+          },
+          {
+            "Nombre": "Física",
+            "Calificacion": 8,
+            "Siglas": "FIS-FC",
+            "Creditos": 5
+          },
+          {
+            "Nombre": "Electricidad y Magnetismo",
+            "Calificacion": 8,
+            "Siglas": "ELM-FC",
+            "Creditos": 4
+          },
+          {
+            "Nombre": "Matematicas Basicas para Computación",
+            "Calificacion": 9,
+            "Siglas": "MBC-FC",
+            "Creditos": 8
+          },
+          {
+            "Nombre": "Arquitectura de computadoras ",
+            "Calificacion": 10,
+            "Siglas": "MAT7",
+            "Creditos": 3
+          }
+      ],
+      "cuatrimestre3": [{
+        "Nombre": "Ingles III",
+        "Calificacion": 9,
+        "Siglas": "IN3-LC",
+        "Creditos": 6
+      },
+      {
+        "Nombre": "Inteligencia Emocional y Manejo de Conflictos",
+        "Calificacion": 9,
+        "Siglas": "IEM-CE",
+        "Creditos": 4
+      },
+      {
+        "Nombre": "Calculo Diferencial",
+        "Calificacion": 10,
+        "Siglas": "CAD-FC",
+        "Creditos": 5
+      },
+      {
+        "Nombre": "Probabilidad y Estadistica",
+        "Calificacion": 9,
+        "Siglas": "PRE-FC",
+        "Creditos": 6
+      },
+      {
+        "Nombre": "Programación",
+        "Calificacion": 9,
+        "Siglas": "PRO-FC",
+        "Creditos": 8
+      },
+      {
+        "Nombre": "Introducción a redes",
+        "Calificacion": 9,
+        "Siglas": "INR-FC",
+        "Creditos": 6
+      },
+      {
+        "Nombre": "Mantenimiento a equipos de computo",
+        "Calificacion": 10,
+        "Siglas": "MEC-FC",
+        "Creditos": 5
+      } 
+      ]
+    },
+    "ciclo2": {
+        "cuatrimestre1": [
+            {
+              "Nombre": "Inglés IV",
+              "Calificacion": 7,
+              "Siglas": "IN4-LC",
+              "Creditos": 6
+            },
+            {
+              "Nombre": "Habilidades Cognitivas y creatividad",
+              "Calificacion": 9,
+              "Siglas": "HCC-CE",
+              "Creditos": 4
+            },
+            {
+              "Nombre": "Cálculo Integral",
+              "Calificacion": 8,
+              "Siglas": "CAL-FC",
+              "Creditos": 4
+            },
+            {
+              "Nombre": "Ingenieria de Software",
+              "Calificacion": 8,
+              "Siglas": "INS-FT",
+              "Creditos": 5
+            },
+            {
+              "Nombre": "Estructuras de datos",
+              "Calificacion": 10,
+              "Siglas": "ESD-FC",
+              "Creditos": 7
+            },
+            {
+              "Nombre": "Ruteo y comutación",
+              "Calificacion": 10,
+              "Siglas": "RUC-FT",
+              "Creditos": 6
+            },
+            {
+              "Nombre": "Estancia I",
+              "Calificacion": 10,
+              "Siglas": "ES1-FT",
+              "Creditos": 8
+            }
+          ],
+          "cuatrimestre2": [
+            {
+                "Nombre": "Ingles V",
+                "Calificacion": 8,
+                "Siglas": "IN5-LC",
+                "Creditos": 6
+              },
+              {
+                "Nombre": "Ética profesional",
+                "Calificacion": 7,
+                "Siglas": "ETP-CE",
+                "Creditos": 4
+              },
+              {
+                "Nombre": "Matematicas para Ingenieria I",
+                "Calificacion": 8,
+                "Siglas": "MI1-FC",
+                "Creditos": 5
+              },
+              {
+                "Nombre": "Física para Ingenieria",
+                "Calificacion": 9,
+                "Siglas": "FII-FC",
+                "Creditos": 5
+              },
+              {
+                "Nombre": "Fundamentos de Programación Orientada a Objetos",
+                "Calificacion": 8,
+                "Siglas": "FPO-FT",
+                "Creditos": 6
+              },
+              {
+                "Nombre": "Escalamiento de redes",
+                "Calificacion": 8,
+                "Siglas": "ESR-FT",
+                "Creditos": 6
+              },
+              {
+                "Nombre": "Base de Datos",
+                "Calificacion": 8,
+                "Siglas": "BAD-FT",
+                "Creditos": 8
+              }
+          ],
+          "cuatrimestre3": [{
+            "Nombre": "Ingles VI",
+            "Calificacion": 7,
+            "Siglas": "IN6-LC",
+            "Creditos": 6
+          },
+          {
+            "Nombre": "Habilidades Gerenciales",
+            "Calificacion": 9,
+            "Siglas": "HAG-CE",
+            "Creditos": 4
+          },
+          {
+            "Nombre": "Matematicas para Ingenieria II",
+            "Calificacion": 8,
+            "Siglas": "MI2-FC",
+            "Creditos": 6
+          },
+          {
+            "Nombre": "Sistemas Operativos",
+            "Calificacion": 9,
+            "Siglas": "SIO-FT",
+            "Creditos": 6
+          },
+          {
+            "Nombre": "Programación Orientada a Objetos",
+            "Calificacion": 10,
+            "Siglas": "POO-FT",
+            "Creditos": 6
+          },
+          {
+            "Nombre": "Interconexión de Redes",
+            "Calificacion": 9,
+            "Siglas": "INR-FT",
+            "Creditos": 5
+          },
+          {
+            "Nombre": "Administración de Bases de Datos",
+            "Calificacion": 8,
+            "Siglas": "ABD-FT",
+            "Creditos": 7
+          } 
+          ]
+    },
+    "ciclo3": {
+        "cuatrimestre1": [
+            {
+              "Nombre": "Ingles VII",
+              "Calificacion": "NA",
+              "Siglas": "IN7-LC",
+              "Creditos": "NA"
+            },
+            {
+              "Nombre": "Liderazgo de equipos de alto desempeño",
+              "Calificacion": "NA",
+              "Siglas": "LEA-CE",
+              "Creditos": "NA"
+            },
+            {
+              "Nombre": "Formulación de proyectos de técnologias de información",
+              "Calificacion": "NA",
+              "Siglas": "FPT-CE",
+              "Creditos": "NA"
+            },
+            {
+              "Nombre": "Lenguajes y Automatas",
+              "Calificacion": "NA",
+              "Siglas": "LEA-FC",
+              "Creditos": "NA"
+            },
+            {
+              "Nombre": "Ingenieria de Requerimientos",
+              "Calificacion": "NA",
+              "Siglas": "INR-FT",
+              "Creditos": "NA"
+            },
+            {
+              "Nombre": "Programación WEB",
+              "Calificacion": "NA",
+              "Siglas": "PRW-FT",
+              "Creditos": "NA"
+            },
+            {
+              "Nombre": "Estancia II",
+              "Calificacion": "NA",
+              "Siglas": "ES2-FT",
+              "Creditos": "NA"
+            }
+          ],
+          "cuatrimestre2": [
+            {
+                "Nombre": "Ingles VIII",
+                "Calificacion": "NA",
+                "Siglas": "IN8-LC",
+                "Creditos": "NA"
+              },
+              {
+                "Nombre": "Tecnologías de virtualización",
+                "Calificacion": "NA",
+                "Siglas": "TEV-FT",
+                "Creditos": "NA"
+              },
+              {
+                "Nombre": "Administración de Proyectos de Tecnologías de información",
+                "Calificacion": "NA",
+                "Siglas": "APT-CE",
+                "Creditos": "NA"
+              },
+              {
+                "Nombre": "Tecnologías y Aplicaciones en Internet",
+                "Calificacion": "NA",
+                "Siglas": "TAI-FT",
+                "Creditos": "NA"
+              },
+              {
+                "Nombre": "Diseño de Interfaces",
+                "Calificacion": "NA",
+                "Siglas": "DII-FT",
+                "Creditos": "NA"
+              },
+              {
+                "Nombre": "Sistemas Inteligentes",
+                "Calificacion": "NA",
+                "Siglas": "SIN-FT",
+                "Creditos": "NA"
+              },
+              {
+                "Nombre": "Gestión de desarrollo de software",
+                "Calificacion": "NA",
+                "Siglas": "GDS-FT",
+                "Creditos": "NA"
+              }
+          ],
+          "cuatrimestre3": [{
+            "Nombre": "Inglés IX",
+            "Calificacion": "NA",
+            "Siglas": "IN9-LC",
+            "Creditos": "NA"
+          },
+          {
+            "Nombre": "Inteligencia de Negocios",
+            "Calificacion": "NA",
+            "Siglas": "INN-CE",
+            "Creditos": "NA"
+          },
+          {
+            "Nombre": "Desarrollo de Negocios para Tecnologías de Información",
+            "Calificacion": "NA",
+            "Siglas": "DNT-CE",
+            "Creditos": "NA"
+          },
+          {
+            "Nombre": "Sistemas Embebidos",
+            "Calificacion": "NA",
+            "Siglas": "SIE-FT",
+            "Creditos": "NA"
+          },
+          {
+            "Nombre": "Programación Móvil",
+            "Calificacion": "NA",
+            "Siglas": "PRM-FT",
+            "Creditos": "NA"
+          },
+          {
+            "Nombre": "Seguridad Informática",
+            "Calificacion": "NA",
+            "Siglas": "SEI-FT",
+            "Creditos": "NA"
+          },
+          {
+            "Nombre": "Expresión oral y escrita II",
+            "Calificacion": "NA",
+            "Siglas": "EO2-LC",
+            "Creditos": "NA"
+          } 
+          ]
+    }
+  }
+  
